@@ -68,6 +68,12 @@ npm run test:integration
 npm run build
 ```
 
+## Syncing
+
+```
+rojo serve
+```
+
 [editorconfig]: https://editorconfig.org/
 [jasmine]: https://jasmine.github.io/
 [node version manager]: https://github.com/creationix/nvm
