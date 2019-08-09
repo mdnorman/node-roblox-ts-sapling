@@ -70,6 +70,8 @@ npm run build
 
 ## Syncing
 
+This project depends on the [Rojo] command line tool.
+
 ```
 rojo serve
 ```
@@ -78,4 +80,5 @@ rojo serve
 [jasmine]: https://jasmine.github.io/
 [node version manager]: https://github.com/creationix/nvm
 [prettier]: https://prettier.io/
+[rojo]: https://rojo.space/docs/latest/
 [tslint]: https://palantir.github.io/tslint/
