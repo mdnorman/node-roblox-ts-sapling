@@ -16,8 +16,9 @@
   "scripts": {
     "clean": "rm -rf dist && rm -rf out",
     "copy-files": "mkdir -p dist && copyfiles --up 1 'src/**/*.model.json' dist",
-    "build": "npm run copy-files && rbxtsc",
+    "build": "npm run copy-files && rbxtsc --minify",
     "build-watch": "npm run copy-files && rbxtsc -w",
+    "build:development": "npm run copy-files && rbxtsc",
     "rebuild": "npm run clean && npm run build",
     "pretest": "npm run build && tsc -p spec/tsconfig.json",
     "rojos": "rojo serve",
