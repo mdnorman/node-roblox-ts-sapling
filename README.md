@@ -73,7 +73,7 @@ npm run build
 This project depends on the [Rojo] command line tool.
 
 ```
-rojo serve
+npm rojos
 ```
 
 [editorconfig]: https://editorconfig.org/

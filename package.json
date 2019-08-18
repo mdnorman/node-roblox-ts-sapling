@@ -18,7 +18,7 @@
     "build": "tsc",
     "rebuild": "npm run clean && npm run build",
     "pretest": "tsc && tsc -p spec/tsconfig.json",
-    "rojo-serve": "rojo serve",
+    "rojos": "rojo serve",
     "test": "jasmine",
     "test:integration": "npm run pretest && jasmine --config=spec/support/jasmine-integration.json",
     "posttest": "npm run lint",
