@@ -68,6 +68,12 @@ npm run test:integration
 npm run build
 ```
 
+Or, if you'd like to have it watch the files to build:
+
+```
+npm run build-watch
+```
+
 ## Syncing
 
 This project depends on the [Rojo] command line tool.
