@@ -32,7 +32,7 @@
     "@rbxts/types": "1.0.235",
     "@types/jest": "26.0.23",
     "@types/node": "13.7.4",
-    "copyfiles": "2.1.1",
+    "copyfiles": "2.4.1",
     "prettier": "2.3.1",
     "pretty-quick": "3.1.1",
     "roblox-ts": "1.1.1",
