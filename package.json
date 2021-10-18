@@ -29,7 +29,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "@rbxts/types": "1.0.495",
+    "@rbxts/types": "1.0.541",
     "@types/jest": "26.0.23",
     "@types/node": "14.17.3",
     "copyfiles": "2.4.1",
