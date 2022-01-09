@@ -28,7 +28,7 @@
     "pretty": "pretty-quick"
   },
   "devDependencies": {
-    "@rbxts/types": "1.0.553",
+    "@rbxts/types": "1.0.567",
     "@types/jest": "27.4.0",
     "@types/node": "16.11.19",
     "@typescript-eslint/eslint-plugin": "5.9.0",
@@ -40,7 +40,7 @@
     "jest": "27.4.7",
     "prettier": "2.5.1",
     "pretty-quick": "3.1.3",
-    "roblox-ts": "1.2.7",
+    "roblox-ts": "1.2.9",
     "ts-jest": "27.1.2",
     "ts-node": "10.4.0",
     "tsutils": "3.21.0",
