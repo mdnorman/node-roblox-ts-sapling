@@ -30,7 +30,7 @@
   "devDependencies": {
     "@rbxts/types": "1.0.567",
     "@types/jest": "27.4.0",
-    "@types/node": "16.11.19",
+    "@types/node": "20.10.0",
     "@typescript-eslint/eslint-plugin": "5.9.0",
     "@typescript-eslint/parser": "5.9.0",
     "copyfiles": "2.4.1",
